@@ -17,11 +17,9 @@ Clone this repo:
 ```
 https://github.com/andreiliphd/marina-google-voice-assistant-embedding.git
 ```
-I had problems with official Google documentation. That's why I decided to provide additional screenshots to make life easier.
+I had problems with an official Google documentation. That's why I decided to provide additional screenshots to make life easier.
 
 Official Google documentation can be found at [Google Assistant SDK](https://developers.google.com/assistant/sdk/guides/service/python/embed/config-dev-project-and-account?hardware=other) page.
-
-You can start with official Google documentation and if something need clarification look at this page for more details.
 
 1. Go to [Actions on Google](https://console.actions.google.com/). Add a new project. Provide a name of project and tune language and country settings.
 ![Add new project](https://github.com/andreiliphd/marina-google-voice-assistant-embedding/raw/master/screenshots/new_project.png)
